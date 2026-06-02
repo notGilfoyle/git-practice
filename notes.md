@@ -1,4 +1,4 @@
-# My EPIC Git Journey
+# My EPIC and AMAZING  Git Journey
 Today I learned what a commit is.
 Git is a local time machine.
 Diffs show me what changed.
