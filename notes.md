@@ -10,3 +10,4 @@ Draft line two.
 Draft line three.
 Learning push and pull today.
 
+Fixed a typo in the notes.
